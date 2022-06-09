@@ -2,8 +2,8 @@
 contentType: prose
 ---
 
-Josef Hanzlík  
-Kde je ona hvězda
+**Josef Hanzlík  
+Kde je ona hvězda**
 
 Edice Čeští básníci 20. století
 
