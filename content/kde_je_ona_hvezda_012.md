@@ -1,8 +1,9 @@
 ---
+title: "Noční můra\_— Nightmare"
 contentType: prose
 ---
 
-## Noční můra — Nightmare
+<section>
 
 Trápí mě trápí noční můra  
 trápí mé trápí několik veršů  
@@ -52,3 +53,5 @@ tak dřív než stačím vysvětlit
 cokoli komukoli
 
 oh nightmare nightmare
+
+</section>

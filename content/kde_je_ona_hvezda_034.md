@@ -1,6 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
+
+<section>
 
 **Josef Hanzlík  
 Kde je ona hvězda**
@@ -24,3 +27,5 @@ ISBN 978-80-274-0596-1 (epub)
 ISBN 978-80-274-0597-8 (pdf)
 
 ISBN 978-80-274-0598-5 (prc)
+
+</section>

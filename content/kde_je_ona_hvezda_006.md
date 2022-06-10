@@ -1,8 +1,9 @@
 ---
+title: Pohádka na dotek
 contentType: prose
 ---
 
-## Pohádka na dotek
+<section>
 
 Na dotek jiskření skleněných ker  
 za lesem vlajících vlasů
@@ -24,3 +25,5 @@ na dotek pravdy
 
 Dotkni se rtů té spící princezny  
 a ona se rozpadne v prach
+
+</section>

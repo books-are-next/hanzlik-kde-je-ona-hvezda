@@ -1,8 +1,9 @@
 ---
+title: "Školní výlet v\_metru"
 contentType: prose
 ---
 
-## Školní výlet v metru
+<section>
 
 Eskalátory chrlí užaslé děti  
 jako orosené exponáty  
@@ -27,3 +28,5 @@ lyrický háv a barokní metafory
 metro i s dětmi v kosmickém prostoru letí  
 k druhému břehu řeky ke vzdáleným hvězdám  
 k vzpomínkám na třetí tisíciletí
+
+</section>

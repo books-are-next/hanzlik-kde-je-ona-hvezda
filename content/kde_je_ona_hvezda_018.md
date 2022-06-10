@@ -1,8 +1,9 @@
 ---
+title: "Snídaně u\_jezírka"
 contentType: prose
 ---
 
-## Snídaně u jezírka
+<section>
 
 Z daleké básně stín  
 tu dívku provází už od procitnutí
@@ -39,3 +40,5 @@ konečně dívku nenávratně míjí —
 
 bez konce šedne v zrcadlech  
 a žloutne na fotografii
+
+</section>

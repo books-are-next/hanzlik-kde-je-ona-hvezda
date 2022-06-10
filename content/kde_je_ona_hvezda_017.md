@@ -1,8 +1,9 @@
 ---
+title: Heidenröslein
 contentType: prose
 ---
 
-## Heidenröslein
+<section>
 
 Tak jemné píseň tká  
 bílý spinet
@@ -30,3 +31,5 @@ už v duchu hloubí kanály a vrší hráze
 
 už přeorává Frísko křížem krážem  
 Její hrob nikdy nenajde
+
+</section>

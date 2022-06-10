@@ -1,10 +1,11 @@
 ---
+title: "Den a\_noc v\_Karlových Varech"
 contentType: prose
 ---
 
-## Den a noc v Karlových Varech
+<section>
 
-### 1  
+## 1  
 (náměstí)
 
 Z mramorové kavárny Elefant  
@@ -50,7 +51,7 @@ po své zkrvavené stopě
 On zdechnout  
 Já?
 
-### 2  
+## 2  
 (Goethova vyhlídka)
 
 Kde je ten kámen  
@@ -68,7 +69,7 @@ abys mě dovedla
 po kroku krůček  
 ke šťastné smrti
 
-### 3  
+## 3  
 (park)
 
 Ta dívka skrytá v noře květů  
@@ -90,7 +91,7 @@ se na mne něžně zlomyslně zubí
 to jenom vlk v mém srdci  
 mě dávno pohltil
 
-### 4  
+## 4  
 (noc)
 
 „Only Love“  
@@ -122,7 +123,7 @@ lahvově zelené lahve alkoholů
 Jak do daleka odlétla tvá radost  
 s chodidly z labutího peří
 
-### 5  
+## 5  
 (sen)
 
 Jako zvířátko stříbrné srsti  
@@ -154,7 +155,7 @@ ach dítě
 můj tenounký můstku spojovací  
 a dítětem ve mně
 
-### 6  
+## 6  
 (procitání — návštěva jako z UFO)
 
 Normální podzim  
@@ -170,3 +171,5 @@ všema svýma velikýma očima
 klíče ve své bázlivé levé pěsti:  
 — Maminka ještě není doma  
 pane
+
+</section>
