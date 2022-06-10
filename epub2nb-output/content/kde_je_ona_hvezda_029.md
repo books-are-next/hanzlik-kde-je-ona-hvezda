@@ -1,8 +1,9 @@
 ---
+title: "Berlín\_— Alexanderplatz"
 contentType: prose
 ---
 
-## Berlín — Alexanderplatz
+<section>
 
 V barevném podzimním odpoledni  
 bloumají po Alexandrově náměstí  
@@ -90,3 +91,5 @@ Rozumíme jim?
 Nebo netušíme  
 že i to podivné berlínské Tschüss  
 je dávné francouzské Adieu?
+
+</section>

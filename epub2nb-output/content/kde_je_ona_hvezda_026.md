@@ -1,8 +1,9 @@
 ---
+title: Dítě roku 2000
 contentType: prose
 ---
 
-## Dítě roku 2000
+<section>
 
 O čem sní  
 dítě z přelomu tisíciletí?  
@@ -36,3 +37,5 @@ zbrocené zlatem
 
 v krystalické podobě  
 smysl revoluce
+
+</section>

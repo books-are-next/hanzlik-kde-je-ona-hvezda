@@ -1,8 +1,9 @@
 ---
+title: Dětství jako ve snu
 contentType: prose
 ---
 
-## Dětství jako ve snu
+<section>
 
 V měkkém stínu modřínu  
 Pod podlahou  
@@ -23,3 +24,5 @@ na dlani zlatě přesýpavé víly
 Uštknutý hadí princ Sám  
 v dešti meteorů Sám  
 v krvi příběhů
+
+</section>

@@ -1,10 +1,11 @@
 ---
+title: Kvadratura kruhu
 contentType: prose
 ---
 
-## Kvadratura kruhu
+<section>
 
-### Text 1
+## Text 1
 
 Toto je ukolébavka  
 něžná jako mříž  
@@ -39,7 +40,7 @@ Na co se umírá?
 Nemusíš odpovídat  
 Díky
 
-### Text 2
+## Text 2
 
 Tak na mne padá  
 tato hrůzně modrá klenba nebes  
@@ -68,7 +69,7 @@ Toto jsou polibky
 po nichž jako ve snu zůstávají  
 tajná ale viditelná znamení
 
-### Text 3
+## Text 3
 
 Flétnové dítě  
 nabízející svou dlaň  
@@ -94,7 +95,7 @@ Peer Gynt se trápí
 ale troll  
 se směje stříbrným a zalykavým smíchem
 
-### Text 4
+## Text 4
 
 Tak cválavě se k spánku vrší  
 až úzko mi  
@@ -127,3 +128,5 @@ nesejmutelné
 Jen mít dost času  
 poradím si  
 i s životem
+
+</section>

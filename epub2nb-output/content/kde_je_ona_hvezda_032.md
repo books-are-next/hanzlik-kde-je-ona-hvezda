@@ -1,8 +1,9 @@
 ---
+title: Nebeská pouť
 contentType: prose
 ---
 
-## Nebeská pouť
+<section>
 
 Jenom obloha a oči dětí mohou být  
 tak básnicky čisté  
@@ -82,3 +83,5 @@ toto je pouze naše věc
 Třpytící se zlaté hroty raket  
 jsou připraveny následovat  
 třpytící se zlatý Eliášův vůz
+
+</section>

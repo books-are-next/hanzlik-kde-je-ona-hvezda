@@ -1,8 +1,9 @@
 ---
+title: "K\_paní dětských příběhů"
 contentType: prose
 ---
 
-## K paní dětských příběhů
+<section>
 
 A nastalo-li zoufalo  
 A nastalo-li promlouvání  
@@ -36,3 +37,5 @@ seismická průrva v zemi myokardů
 a za nehýtek  
 opravdu živá  
 živá voda
+
+</section>

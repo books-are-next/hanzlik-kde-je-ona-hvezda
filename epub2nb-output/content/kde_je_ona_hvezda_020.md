@@ -1,8 +1,9 @@
 ---
+title: "Goethe v\_Mariánských Lázních"
 contentType: prose
 ---
 
-## Goethe v Mariánských Lázních
+<section>
 
 Lesy pokřtěných pramenů  
 a pohanských trav
@@ -48,3 +49,5 @@ rozříznout dlaň
 
 Nemetaforické  
 chrlení tuberkulózní krve
+
+</section>

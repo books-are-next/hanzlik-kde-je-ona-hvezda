@@ -1,8 +1,9 @@
 ---
+title: Altán poblíž fontány
 contentType: prose
 ---
 
-## Altán poblíž fontány
+<section>
 
 Zde nostalgické barvy podzimu  
 anebo jitřní tóny jara
@@ -24,3 +25,5 @@ Goethovské mlhy krev a Mefistofeles
 
 Zde za vlídného soumraku  
 šijeme masky
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Hvězdné války
 contentType: prose
 ---
 
-## Hvězdné války
+<section>
 
 Kdo jsou tyto bytosti  
 plížící se démantovou tmou  
@@ -91,3 +92,5 @@ touha žít žít milovat a žít
 nezměnitelný  
 neporazitelný  
 genetický kód lidstva
+
+</section>

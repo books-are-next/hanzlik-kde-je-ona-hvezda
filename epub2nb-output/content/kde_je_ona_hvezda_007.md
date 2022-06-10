@@ -1,8 +1,9 @@
 ---
+title: 'Mozart: Rekviem'
 contentType: prose
 ---
 
-## Mozart: Rekviem
+<section>
 
 (k narození Kryštůfka)
 
@@ -64,3 +65,5 @@ jestliže jsi už přišel
 odpověz mi
 
 jediné slovo
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Autobus míjí hřbitov
 contentType: prose
 ---
 
-## Autobus míjí hřbitov
+<section>
 
 Nějací dávní Thrákové  
 nějací Češi  
@@ -26,3 +27,5 @@ my dosud kráčející
 
 ani se neptejte  
 přátelé
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Loučení
 contentType: prose
 ---
 
-## Loučení
+<section>
 
 Jak sladce chutná tato vodka  
 studená  
@@ -35,3 +36,5 @@ Geigerův-Müllerův počítač
 jak hořce
 
 Bucharest the airport
+
+</section>

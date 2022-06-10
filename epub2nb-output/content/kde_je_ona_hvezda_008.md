@@ -1,8 +1,9 @@
 ---
+title: "Lunapark v\_zimní noci"
 contentType: prose
 ---
 
-## Lunapark v zimní noci
+<section>
 
 Noc kolotající noc rozvířená  
 tonoucíma rukama  
@@ -51,3 +52,5 @@ noc opásaná ostnatými křídly
 Tma jako chrám  
 s varhanní sonátou Paula Hindemitha  
 Tma jako sluneční oči smrti
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: Osamocení se vzdalují
 contentType: prose
 ---
 
-## Osamocení se vzdalují
+<section>
 
 Chodec uprostřed zimní noci  
 plné vichru  
@@ -42,3 +43,5 @@ se vplíží tma a démantový prach
 Na stráni dlouze bolestivě vykvete  
 hlasité mlčení —  
 kolemjdoucí vzduch
+
+</section>

@@ -1,8 +1,9 @@
 ---
+title: "Harfenice v\_pařížském metru"
 contentType: prose
 ---
 
-## Harfenice v pařížském metru
+<section>
 
 V podchodu metra  
 nad bretaňským šátkem  
@@ -28,3 +29,5 @@ a znící
 To hraje harfa  
 — sten a sten —  
 na harfenici
+
+</section>

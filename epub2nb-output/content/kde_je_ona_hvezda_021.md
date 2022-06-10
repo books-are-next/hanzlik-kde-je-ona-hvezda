@@ -1,9 +1,9 @@
 ---
+title: "Umírání Franze Kafky v\_sanatoriu Kierling"
 contentType: prose
 ---
 
-## Umírání Franze Kafky  
-v sanatoriu Kierling
+<section>
 
 Smích slunce Ticho  
 Líbezné vrcholky hor  
@@ -36,3 +36,5 @@ Italské princezny mu kynou něžnou dlaní
 Tak to je tedy smrt  
 Jak hezké to tu bylo s vámi  
 Přesto A díky
+
+</section>

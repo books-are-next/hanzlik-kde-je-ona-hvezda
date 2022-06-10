@@ -1,8 +1,9 @@
 ---
+title: Meteor
 contentType: prose
 ---
 
-## Meteor
+<section>
 
 Nad Prahou bezhvězdná noc  
 Hodiny mezi poslední písní opilců  
@@ -109,3 +110,5 @@ Meteor padá
 Bezhlavě jako do lásky  
 Střemhlav jako  
 do zbytečné smrti
+
+</section>

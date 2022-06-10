@@ -1,8 +1,9 @@
 ---
+title: Nobelova cena 1985
 contentType: prose
 ---
 
-## Nobelova cena 1985
+<section>
 
 Nobelovy ceny v ohňostroji fotoblesků…  
 Vědci tápou v prchavé kapce Země  
@@ -116,3 +117,5 @@ se vzpomínkami kterých se budou hrozit
 a které přesto budou přivolávat  
 jako člověk jenž s pohledem do zrcadla  
 sám sebe zoufale rdousí
+
+</section>

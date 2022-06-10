@@ -1,8 +1,9 @@
 ---
+title: Večerní otázky dětí
 contentType: prose
 ---
 
-## Večerní otázky dětí
+<section>
 
 Jak velkým nebeským uchem  
 a na jaké vlnové délce lze slyšet  
@@ -79,3 +80,5 @@ jako na surrealistickém plátnu
 Kdy se z dětství jako vydávený oheň  
 vrátíme k vám A kdy vy polykači ohně  
 splynete s námi
+
+</section>

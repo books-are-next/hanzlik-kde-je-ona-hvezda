@@ -1,8 +1,9 @@
 ---
+title: Spánek po havárii Challengeru
 contentType: prose
 ---
 
-## Spánek po havárii Challengeru
+<section>
 
 Noc plná křídel  
 noc útěku hvězd  
@@ -57,3 +58,5 @@ moudřejšími
 anebo  
 prostě  
 tam?
+
+</section>
