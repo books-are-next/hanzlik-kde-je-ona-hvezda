@@ -51,7 +51,7 @@ a na jehož konci zdvíháš své divoce veselé nehty
 
 Myši  
          upíři  
-                  a ufoni
+            a ufoni
 
 A také své oči k mým očím zdvíháš  
 nad něž jsem líbeznějších neviděl

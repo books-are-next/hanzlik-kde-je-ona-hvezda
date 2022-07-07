@@ -17,8 +17,8 @@ oněma půvabnýma nohama mrtvých
 nohama jako fialová úzkost tajícíma  
      do obrazů Salvadora Daliho  
           a do snů šestnáctiletých Jeanů Arthurů  
-              těch básníků těch zoufalých  
-                  šestnáctiletých chlapců  
+            těch básníků těch zoufalých  
+            šestnáctiletých chlapců  
 nohama dívek právě prchajících  
 z mramorové krypty kavárny Elefant  
 prchají mé lásky  
@@ -159,7 +159,7 @@ a dítětem ve mně
 (procitání — návštěva jako z UFO)
 
 Normální podzim  
-                                 Vítr  
+            Vítr  
 ten člověk přichází a říká  
 — Dobré odpoledne dcerunko  
 a  
