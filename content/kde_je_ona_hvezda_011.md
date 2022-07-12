@@ -1,6 +1,6 @@
 ---
 title: Padání do noci
-contentType: prose
+contentType: poetry
 ---
 
 <section>

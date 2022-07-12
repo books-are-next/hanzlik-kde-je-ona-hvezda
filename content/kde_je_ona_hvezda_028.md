@@ -1,6 +1,6 @@
 ---
 title: "V\_nebeské tmě nad městem X"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

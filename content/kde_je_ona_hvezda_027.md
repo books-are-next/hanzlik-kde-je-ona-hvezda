@@ -1,6 +1,6 @@
 ---
 title: Meteor
-contentType: prose
+contentType: poetry
 ---
 
 <section>

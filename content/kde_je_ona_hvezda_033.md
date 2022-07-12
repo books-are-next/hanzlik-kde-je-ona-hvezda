@@ -1,6 +1,6 @@
 ---
 title: Spánek po havárii Challengeru
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: "Umírání Franze Kafky v\_sanatoriu Kierling"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

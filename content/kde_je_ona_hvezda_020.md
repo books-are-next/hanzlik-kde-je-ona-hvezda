@@ -1,6 +1,6 @@
 ---
 title: "Goethe v\_Mariánských Lázních"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

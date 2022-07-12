@@ -1,6 +1,6 @@
 ---
 title: "K\_paní dětských příběhů"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

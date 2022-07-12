@@ -1,6 +1,6 @@
 ---
 title: "Školní výlet v\_metru"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

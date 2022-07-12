@@ -1,6 +1,6 @@
 ---
 title: "Harfenice v\_pařížském metru"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

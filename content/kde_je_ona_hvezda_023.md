@@ -1,6 +1,6 @@
 ---
 title: "Den a\_noc v\_Karlových Varech"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

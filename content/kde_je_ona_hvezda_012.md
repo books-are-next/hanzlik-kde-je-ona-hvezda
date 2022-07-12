@@ -1,6 +1,6 @@
 ---
 title: "Noční můra\_— Nightmare"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

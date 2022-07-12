@@ -1,6 +1,6 @@
 ---
 title: Altán poblíž fontány
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Hvězdné války
-contentType: prose
+contentType: poetry
 ---
 
 <section>

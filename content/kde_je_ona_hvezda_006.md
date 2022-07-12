@@ -1,6 +1,6 @@
 ---
 title: Pohádka na dotek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
