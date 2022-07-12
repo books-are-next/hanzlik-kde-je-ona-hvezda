@@ -1,6 +1,6 @@
 ---
 title: "Noční zvuky\_— interference"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

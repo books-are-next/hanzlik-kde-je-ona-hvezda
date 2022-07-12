@@ -1,6 +1,6 @@
 ---
 title: "Snídaně u\_jezírka"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

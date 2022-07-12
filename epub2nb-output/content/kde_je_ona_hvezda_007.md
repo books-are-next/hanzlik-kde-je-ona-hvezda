@@ -1,6 +1,6 @@
 ---
 title: 'Mozart: Rekviem'
-contentType: prose
+contentType: poetry
 ---
 
 <section>

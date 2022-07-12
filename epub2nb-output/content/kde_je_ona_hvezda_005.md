@@ -1,6 +1,6 @@
 ---
 title: Večerní otázky dětí
-contentType: prose
+contentType: poetry
 ---
 
 <section>

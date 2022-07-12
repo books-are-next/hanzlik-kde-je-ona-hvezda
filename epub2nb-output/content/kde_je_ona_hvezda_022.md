@@ -1,6 +1,6 @@
 ---
 title: Osamocení se vzdalují
-contentType: prose
+contentType: poetry
 ---
 
 <section>

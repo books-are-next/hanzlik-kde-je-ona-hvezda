@@ -1,6 +1,6 @@
 ---
 title: Nobelova cena 1985
-contentType: prose
+contentType: poetry
 ---
 
 <section>

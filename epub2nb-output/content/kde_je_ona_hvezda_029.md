@@ -1,6 +1,6 @@
 ---
 title: "Berlín\_— Alexanderplatz"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Nebeská pouť
-contentType: prose
+contentType: poetry
 ---
 
 <section>

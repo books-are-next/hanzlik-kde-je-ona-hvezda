@@ -1,6 +1,6 @@
 ---
 title: Kvadratura kruhu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

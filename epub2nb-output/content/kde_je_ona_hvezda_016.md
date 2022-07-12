@@ -1,6 +1,6 @@
 ---
 title: Autobus míjí hřbitov
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,6 +1,6 @@
 ---
 title: Heidenröslein
-contentType: prose
+contentType: poetry
 ---
 
 <section>

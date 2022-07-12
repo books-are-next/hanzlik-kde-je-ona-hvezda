@@ -1,0 +1,748 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Kde je ona hvězda",
+  "author": "Josef Hanzlík",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hanzlik-kde-je-ona-hvezda-9491da3",
+  "revision": "9491da3",
+  "readingOrder": [
+    "promo.html",
+    "kde_je_ona_hvezda_005.html",
+    "kde_je_ona_hvezda_006.html",
+    "kde_je_ona_hvezda_007.html",
+    "kde_je_ona_hvezda_008.html",
+    "kde_je_ona_hvezda_009.html",
+    "kde_je_ona_hvezda_010.html",
+    "kde_je_ona_hvezda_011.html",
+    "kde_je_ona_hvezda_012.html",
+    "kde_je_ona_hvezda_013.html",
+    "kde_je_ona_hvezda_014.html",
+    "kde_je_ona_hvezda_015.html",
+    "kde_je_ona_hvezda_016.html",
+    "kde_je_ona_hvezda_017.html",
+    "kde_je_ona_hvezda_018.html",
+    "kde_je_ona_hvezda_019.html",
+    "kde_je_ona_hvezda_020.html",
+    "kde_je_ona_hvezda_021.html",
+    "kde_je_ona_hvezda_022.html",
+    "kde_je_ona_hvezda_023.html",
+    "kde_je_ona_hvezda_024.html",
+    "kde_je_ona_hvezda_025.html",
+    "kde_je_ona_hvezda_026.html",
+    "kde_je_ona_hvezda_027.html",
+    "kde_je_ona_hvezda_028.html",
+    "kde_je_ona_hvezda_029.html",
+    "kde_je_ona_hvezda_030.html",
+    "kde_je_ona_hvezda_031.html",
+    "kde_je_ona_hvezda_032.html",
+    "kde_je_ona_hvezda_033.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Jul 12 2022 14:50:48 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657637448411
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "kde_je_ona_hvezda_005.html",
+      "toc": []
+    },
+    {
+      "title": "Večerní otázky dětí",
+      "file": "kde_je_ona_hvezda_005.html",
+      "words": 309,
+      "chars": 1646,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "kde_je_ona_hvezda_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večerní otázky dětí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka na dotek",
+      "file": "kde_je_ona_hvezda_006.html",
+      "words": 70,
+      "chars": 365,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 2,
+      "prev": "kde_je_ona_hvezda_005.html",
+      "next": "kde_je_ona_hvezda_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka na dotek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mozart: Rekviem",
+      "file": "kde_je_ona_hvezda_007.html",
+      "words": 175,
+      "chars": 1006,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 3,
+      "prev": "kde_je_ona_hvezda_006.html",
+      "next": "kde_je_ona_hvezda_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mozart: Rekviem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lunapark v zimní noci",
+      "file": "kde_je_ona_hvezda_008.html",
+      "words": 140,
+      "chars": 844,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 4,
+      "prev": "kde_je_ona_hvezda_007.html",
+      "next": "kde_je_ona_hvezda_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lunapark v zimní noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dětství jako ve snu",
+      "file": "kde_je_ona_hvezda_009.html",
+      "words": 64,
+      "chars": 360,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 5,
+      "prev": "kde_je_ona_hvezda_008.html",
+      "next": "kde_je_ona_hvezda_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dětství jako ve snu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K paní dětských příběhů",
+      "file": "kde_je_ona_hvezda_010.html",
+      "words": 127,
+      "chars": 702,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 6,
+      "prev": "kde_je_ona_hvezda_009.html",
+      "next": "kde_je_ona_hvezda_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K paní dětských příběhů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Padání do noci",
+      "file": "kde_je_ona_hvezda_011.html",
+      "words": 35,
+      "chars": 181,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 7,
+      "prev": "kde_je_ona_hvezda_010.html",
+      "next": "kde_je_ona_hvezda_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Padání do noci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční můra — Nightmare",
+      "file": "kde_je_ona_hvezda_012.html",
+      "words": 179,
+      "chars": 1016,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 8,
+      "prev": "kde_je_ona_hvezda_011.html",
+      "next": "kde_je_ona_hvezda_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční můra — Nightmare",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Altán poblíž fontány",
+      "file": "kde_je_ona_hvezda_013.html",
+      "words": 66,
+      "chars": 377,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "kde_je_ona_hvezda_012.html",
+      "next": "kde_je_ona_hvezda_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Altán poblíž fontány",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Loučení",
+      "file": "kde_je_ona_hvezda_014.html",
+      "words": 105,
+      "chars": 629,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 10,
+      "prev": "kde_je_ona_hvezda_013.html",
+      "next": "kde_je_ona_hvezda_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Loučení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční zvuky — interference",
+      "file": "kde_je_ona_hvezda_015.html",
+      "words": 91,
+      "chars": 528,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 11,
+      "prev": "kde_je_ona_hvezda_014.html",
+      "next": "kde_je_ona_hvezda_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční zvuky — interference",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Autobus míjí hřbitov",
+      "file": "kde_je_ona_hvezda_016.html",
+      "words": 53,
+      "chars": 295,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 12,
+      "prev": "kde_je_ona_hvezda_015.html",
+      "next": "kde_je_ona_hvezda_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Autobus míjí hřbitov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Heidenröslein",
+      "file": "kde_je_ona_hvezda_017.html",
+      "words": 88,
+      "chars": 498,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 13,
+      "prev": "kde_je_ona_hvezda_016.html",
+      "next": "kde_je_ona_hvezda_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Heidenröslein",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Snídaně u jezírka",
+      "file": "kde_je_ona_hvezda_018.html",
+      "words": 119,
+      "chars": 645,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 14,
+      "prev": "kde_je_ona_hvezda_017.html",
+      "next": "kde_je_ona_hvezda_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Snídaně u jezírka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Harfenice v pařížském metru",
+      "file": "kde_je_ona_hvezda_019.html",
+      "words": 63,
+      "chars": 332,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 15,
+      "prev": "kde_je_ona_hvezda_018.html",
+      "next": "kde_je_ona_hvezda_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Harfenice v pařížském metru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Goethe v Mariánských Lázních",
+      "file": "kde_je_ona_hvezda_020.html",
+      "words": 112,
+      "chars": 701,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 16,
+      "prev": "kde_je_ona_hvezda_019.html",
+      "next": "kde_je_ona_hvezda_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Goethe v Mariánských Lázních",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Umírání Franze Kafky v sanatoriu Kierling",
+      "file": "kde_je_ona_hvezda_021.html",
+      "words": 109,
+      "chars": 630,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 17,
+      "prev": "kde_je_ona_hvezda_020.html",
+      "next": "kde_je_ona_hvezda_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Umírání Franze Kafky v sanatoriu Kierling",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osamocení se vzdalují",
+      "file": "kde_je_ona_hvezda_022.html",
+      "words": 138,
+      "chars": 858,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 18,
+      "prev": "kde_je_ona_hvezda_021.html",
+      "next": "kde_je_ona_hvezda_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osamocení se vzdalují",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Den a noc v Karlových Varech",
+      "file": "kde_je_ona_hvezda_023.html",
+      "words": 577,
+      "chars": 3264,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 19,
+      "prev": "kde_je_ona_hvezda_022.html",
+      "next": "kde_je_ona_hvezda_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Den a noc v Karlových Varech",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kvadratura kruhu",
+      "file": "kde_je_ona_hvezda_024.html",
+      "words": 369,
+      "chars": 1893,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 20,
+      "prev": "kde_je_ona_hvezda_023.html",
+      "next": "kde_je_ona_hvezda_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kvadratura kruhu",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Text 1",
+              "id": "text-1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Text 2",
+              "id": "text-2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "Text 3",
+              "id": "text-3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "Text 4",
+              "id": "text-4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Školní výlet v metru",
+      "file": "kde_je_ona_hvezda_025.html",
+      "words": 98,
+      "chars": 565,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 21,
+      "prev": "kde_je_ona_hvezda_024.html",
+      "next": "kde_je_ona_hvezda_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Školní výlet v metru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dítě roku 2000",
+      "file": "kde_je_ona_hvezda_026.html",
+      "words": 115,
+      "chars": 760,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 22,
+      "prev": "kde_je_ona_hvezda_025.html",
+      "next": "kde_je_ona_hvezda_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dítě roku 2000",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Meteor",
+      "file": "kde_je_ona_hvezda_027.html",
+      "words": 353,
+      "chars": 2194,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 23,
+      "prev": "kde_je_ona_hvezda_026.html",
+      "next": "kde_je_ona_hvezda_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Meteor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V nebeské tmě nad městem X",
+      "file": "kde_je_ona_hvezda_028.html",
+      "words": 280,
+      "chars": 1718,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 24,
+      "prev": "kde_je_ona_hvezda_027.html",
+      "next": "kde_je_ona_hvezda_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V nebeské tmě nad městem X",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Berlín — Alexanderplatz",
+      "file": "kde_je_ona_hvezda_029.html",
+      "words": 346,
+      "chars": 2112,
+      "ideas": 75,
+      "role": "chapter",
+      "order": 25,
+      "prev": "kde_je_ona_hvezda_028.html",
+      "next": "kde_je_ona_hvezda_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Berlín — Alexanderplatz",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nobelova cena 1985",
+      "file": "kde_je_ona_hvezda_030.html",
+      "words": 479,
+      "chars": 2934,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 26,
+      "prev": "kde_je_ona_hvezda_029.html",
+      "next": "kde_je_ona_hvezda_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nobelova cena 1985",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hvězdné války",
+      "file": "kde_je_ona_hvezda_031.html",
+      "words": 308,
+      "chars": 1944,
+      "ideas": 67,
+      "role": "chapter",
+      "order": 27,
+      "prev": "kde_je_ona_hvezda_030.html",
+      "next": "kde_je_ona_hvezda_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hvězdné války",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebeská pouť",
+      "file": "kde_je_ona_hvezda_032.html",
+      "words": 300,
+      "chars": 1829,
+      "ideas": 68,
+      "role": "chapter",
+      "order": 28,
+      "prev": "kde_je_ona_hvezda_031.html",
+      "next": "kde_je_ona_hvezda_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebeská pouť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Spánek po havárii Challengeru",
+      "file": "kde_je_ona_hvezda_033.html",
+      "words": 145,
+      "chars": 794,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 29,
+      "prev": "kde_je_ona_hvezda_032.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Spánek po havárii Challengeru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 141,
+      "chars": 907,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "kde_je_ona_hvezda_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 5561,
+      "chars": 32571,
+      "ideas": 1309
+    },
+    "chapters": {
+      "words": 5413,
+      "chars": 31620,
+      "ideas": 1290
+    }
+  }
+}

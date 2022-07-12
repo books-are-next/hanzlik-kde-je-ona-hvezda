@@ -1,6 +1,6 @@
 ---
 title: Dítě roku 2000
-contentType: prose
+contentType: poetry
 ---
 
 <section>

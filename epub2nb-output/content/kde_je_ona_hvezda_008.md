@@ -1,6 +1,6 @@
 ---
 title: "Lunapark v\_zimní noci"
-contentType: prose
+contentType: poetry
 ---
 
 <section>

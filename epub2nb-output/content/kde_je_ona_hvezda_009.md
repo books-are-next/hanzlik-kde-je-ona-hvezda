@@ -1,6 +1,6 @@
 ---
 title: Dětství jako ve snu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
