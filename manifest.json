@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-kde-je-ona-hvezda-2217574",
-  "revision": "2217574",
+  "identifier": "hanzlik-kde-je-ona-hvezda-5a052ac",
+  "revision": "5a052ac",
   "readingOrder": [
     "promo.html",
     "kde_je_ona_hvezda_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:54:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639659152
+    "date": "Tue Oct 04 2022 16:41:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901691263
   },
   "documents": [
     {
@@ -715,9 +715,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 141,
+      "words": 140,
       "chars": 907,
-      "ideas": 15,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "kde_je_ona_hvezda_033.html",
@@ -735,9 +735,9 @@
   ],
   "totals": {
     "all": {
-      "words": 5562,
+      "words": 5561,
       "chars": 32566,
-      "ideas": 1309
+      "ideas": 1308
     },
     "chapters": {
       "words": 5413,
