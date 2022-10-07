@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hanzlik-kde-je-ona-hvezda-cbe486b",
-  "revision": "cbe486b",
+  "identifier": "hanzlik-kde-je-ona-hvezda-2cca6fc",
+  "revision": "2cca6fc",
   "readingOrder": [
     "promo.html",
     "kde_je_ona_hvezda_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:53:05 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923985677
+    "date": "Fri Oct 07 2022 14:10:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151810937
   },
   "documents": [
     {
