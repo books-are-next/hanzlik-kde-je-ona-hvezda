@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2822-9
 readingOrder:
   - promo.html
   - kde_je_ona_hvezda_005.html
